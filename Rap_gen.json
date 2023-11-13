@@ -29,7 +29,7 @@
         },
         "draftenabled": {
             "type": "boolean",
-            "default": true,
+            "default": false,
             "description": "When set to true the generator will genrate a draft table as well. If you want to determine the name of the draft table you can do so by setting the property draftTableName in each entity."
         },
         "prefix": {
