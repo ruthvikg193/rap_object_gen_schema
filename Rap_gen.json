@@ -88,6 +88,15 @@
                     "type": "string",
                     "minLength": 1
                 },
+                "objectId": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "uuid": {
+                    "type": "string",
+                    "default": "uuid",
+                    "minLength": 1
+                },
                 "etagMaster": {
                     "type": "string",
                     "default": "local_last_changed_at",
