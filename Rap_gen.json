@@ -180,6 +180,7 @@
             "required": [
                 "entityName",
                 "dataSource",
+                "objectId",
                 "etagMaster"
             ],
             "additionalProperties": false
